@@ -1,2 +1,2 @@
-# RosettaPy
-Pythonic solutions to Rosetta Code problems
+# rosetta
+Polyglottal solutions to Rosetta Code problems
